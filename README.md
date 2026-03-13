@@ -28,8 +28,7 @@ A Python visualization tool that plots and compares the growth rates of mathemat
 
 ## 📷 Preview
 
-![Function Growth Plot](<img width="824" height="388" alt="function" src="https://github.com/user-attachments/assets/64fb53b9-440e-466d-9eec-392a47076e05" />
-.png)
+![Function Growth Plot](<img width="824" height="388" alt="function" src="https://github.com/user-attachments/assets/64fb53b9-440e-466d-9eec-392a47076e05" />)
 
 ## 🚀 Usage
 
